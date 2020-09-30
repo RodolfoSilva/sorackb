@@ -1,5 +1,5 @@
 ![Sorackb's github stats](https://github-readme-stats.vercel.app/api?username=sorackb&show_icons=true&theme=dracula)
-![Sorackb top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sorackb&layout=compact&theme=dracula)
+![Sorackb top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sorackb&layout=default&theme=dracula)
 
 <!--
 **brcontainer/brcontainer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
